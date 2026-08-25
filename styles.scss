@@ -1,0 +1,54 @@
+/* styles.scss — The "LinkTree Effect" for Quarto jolla template */
+
+/* Center the container and format as a column */
+.about-links {
+  display: flex !important;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  width: 100%;
+  max-width: 450px;
+  margin: 1.5rem auto 0 auto;
+
+  /* Style individual links as block buttons */
+  .about-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 14px 20px;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    background-color: #ffffff;
+    color: #2b2b2b;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+
+    /* Hover effect for conversions */
+    &:hover {
+      background-color: #f8f9fa;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+      color: #000000;
+    }
+
+    /* Icon spacing */
+    i, svg {
+      margin-right: 12px;
+      font-size: 1.2rem;
+    }
+  }
+}
+
+/* Highlight the primary CTA (first button) */
+.about-links .about-link:first-child {
+  background-color: #2b2b2b;
+  color: #ffffff;
+  border-color: #2b2b2b;
+  
+  &:hover {
+    background-color: #000000;
+  }
+}

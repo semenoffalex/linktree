@@ -1,0 +1,29 @@
+---
+title: "Dr. [Firstname] [Lastname]"
+image: profile.jpg
+about:
+  template: jolla
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: envelope
+      text: "Hire me for Consulting & Speaking"
+      href: mailto:client@email.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/...
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/...
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/...
+    - icon: globe
+      text: English Blog
+      href: https://blog.com
+    - icon: globe
+      text: Russian Blog
+      href: https://blog.ru
+---
+
+Senior Data Scientist with 20+ years of experience in machine learning, statistical modeling, and technical leadership. Available for specialized consulting, corporate training, and public speaking.

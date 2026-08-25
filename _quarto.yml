@@ -1,0 +1,17 @@
+project:
+  type: website
+  resources:
+    - CNAME
+    - styles.css
+
+website:
+  title: "Dr. [Firstname] [Lastname]"
+  site-url: "https://[client-custom-domain.com]"
+  description: "Senior Data Scientist | Consultant | Speaker"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    minimal: true
