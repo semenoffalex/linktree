@@ -5,9 +5,10 @@ project:
     - styles.css
 
 website:
-  title: "Dr. [Firstname] [Lastname]"
-  site-url: "https://[client-custom-domain.com]"
-  description: "Senior Data Scientist | Consultant | Speaker"
+  title: "Alex Semenoff"
+  site-url: "https://semenoffalex.me"
+  description: "(Social | Network | Data) Scientist"
+  google-analytics: "G-B88FFFG4ZP"
 
 format:
   html:
