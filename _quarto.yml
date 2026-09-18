@@ -8,7 +8,7 @@ website:
   title: "Alex Semenoff"
   site-url: "https://semenoffalex.me"
   description: "(Social | Network | Data) Scientist"
-  google-analytics: "G-B88FFFG4ZP"
+#  google-analytics: "G-B88FFFG4ZP"
 
 format:
   html:
@@ -16,3 +16,4 @@ format:
     css: styles.css
     toc: false
     minimal: true
+    include-in-header: analytics.html
