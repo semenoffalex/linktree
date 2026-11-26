@@ -1,6 +1,5 @@
 ---
-title: "Engineering AI Agents: schedule and papers"
-subtitle: "Stanford CS 329Z · Fall 2026"
+pagetitle: "Engineering AI Agents — Stanford CS 329Z: schedule and papers"
 format:
   html:
     css: stanford-cs329.css
