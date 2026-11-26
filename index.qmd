@@ -21,6 +21,9 @@ about:
     - icon: github
       text: Github
       href: http://github.com/semenoffalex  
+    - icon: journal-bookmark
+      text: "Stanford CS 329Z — AI Agents: schedule & papers"
+      href: stanford-cs329.html
     # - icon: globe
     #   text: English Blog
     #   href: https://blog.com
